@@ -11,7 +11,9 @@ public class FirstClass {
 
 		System.out.println("This is the fourth commit from local master");
 		
-		System.out.println("This is the third commit from local master");		
+		System.out.println("This is the third commit from local master");	
+		
+		System.out.println("first commit from nizam branch");
 
 	}
 
